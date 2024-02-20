@@ -1,5 +1,3 @@
-Certainly! Here's a cheatsheet for SQLite command line commands:
-
 1. **Open/Create Database**:
    ```
    sqlite3 [database_name]
@@ -80,4 +78,3 @@ Certainly! Here's a cheatsheet for SQLite command line commands:
     sqlite3 [database_name] "SQL_COMMAND;"
     ```
 
-These commands should cover most basic interactions with SQLite via the command line interface.
